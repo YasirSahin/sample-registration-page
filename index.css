@@ -1,0 +1,35 @@
+h1 {
+    background-color: yellow;
+    text-align: center;
+    font-size: 60px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+h2{
+    font-size: 45px;
+}
+
+h3{font-size:30px;}
+
+form{text-align: center;}
+
+table{
+    text-align: center;
+    margin:0 auto;
+}
+
+footer{text-align: center;}
+
+h2{text-align: center;}
+
+p{
+    text-align: center;
+    font-size: larger;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
